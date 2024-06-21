@@ -1,0 +1,29 @@
+Highlight case study 4 (Kycos)
+
+Country: Viet Nam
+
+Client: Kycos
+
+Domain: Finance
+
+Timeline: 2020
+
+Team Size: 6 SoftwareEngineers
+
+Details: TP&P Technology offers KYCOS, an AI-powered solution for automating ID verification and ensuring compliance with KYC and AML regulations. It provides a seamless customer experience.
+
+Solutions: 
+ID Verification: KYCOS verifies ID documents, detects fraud, and identifies fake IDs.
+AI-Powered: KYCOS utilizes AI, OCR, and facial recognition to ensure the person submitting the ID is physically present and matches their claimed identity.
+API Integration: KYCOS seamlessly integrates with mobile, web, and internal systems through APIs.
+Multi-Languages & Countries Support: KYCOS supports IDs from multiple countries, languages, and document types.
+
+Results:
+Quick & live-check ID verification
+Automate the process of ID documents (e.g. driver license, passport, etc.) verification, on a large scale, 24/7/365;
+Streamline onboarding process
+
+Technology & Programming Language: 
+OCR (Optical Character Recognition) for Text Recognition/Detection
+Deep Learning for Facial Recognition
+Action Recognition for Live-Check

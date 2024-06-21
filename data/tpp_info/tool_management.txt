@@ -1,0 +1,9 @@
+MANAGEMENT
+
+JIRA
+TFS
+Crystal Report
+Power
+Designer
+Slack
+Zalo

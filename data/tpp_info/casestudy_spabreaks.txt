@@ -1,0 +1,32 @@
+Highlight case study 7 (Spabreaks)
+
+Country: UK
+
+Client: Spabreaks
+
+Domain: Spa
+
+Timeline: Year 2021 – 2022
+
+Team Size: 10 IT professionals including: Software Developers, QA/QC, UI/UX Designer, and Project Managers
+
+Details: TPP Software was contracted by Spa Break with 3 sub-projects below:
+Moving the blog content from the old CMS to Contentful CMS
+Building My account system
+Improving SEO & CRO for spabreak
+
+Solutions: TP&P Technology team of developers and other IT professionals worked with Spa Break team to perform the followings:
+Building new BLOG site which is migrated from WordPress CMS to Contentful CMS
+Building My Account system to help users manage their bookings, profiles
+Building SEO & CRO
+QA & Software testing activities
+
+Results: 
+Successfully helped client to migrate the blog content from Wordpress CMS to Contentful CMS
+Other projects are still on-going
+
+Technology & Programming Language: 
+Ruby
+HTML, CSS
+Contentful CMS
+ReactJS (Next JS)

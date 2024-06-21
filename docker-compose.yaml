@@ -1,0 +1,10 @@
+services: 
+  mongodb:
+    image: mongodb/mongodb-community-server:latest
+    container_name: chatbot-mongodb
+    ports:
+      - 27019:27017
+    environment:
+      - MONGO_INITDB_DATABASE=chat
+      - MONGODB_INITDB_ROOT_USERNAME=admin
+      - MONGODB_INITDB_ROOT_PASSWORD=chatbot

@@ -1,0 +1,21 @@
+Group Company
+
+DIGITAL HEARTS HOLDINGS:
+Enterprise Business :
+AGEST, Inc (Japan): System testing, Cyber-security, etc… 
+LogiGear Group (Japan, US, VietNam): System testing, Test Automation Support
+MK Partner, Inc (US): Salesforce consulting
+TPP SOFT, JSC (VietNam): System development
+DEVELOPMENT WORLD SYSTEMS LIMITED (UK): Introduction & Maintenance support for Oracle products
+Identity Inc (Japan) : IT freelance engineer platform service
+GEGB Co., Ltd (Japan): SAP implementation & operation, system development support, etc
+
+Entertainment Business :
+DIGITAL HEARTS Co., Ltd. (Japan): Game debugging, Localization
+DIGITAL HEARTS CROSS Group (Taiwan, Singapore, Japan, China, Hong Kong): Marketing support, etc
+DIGITAL HEARTS (Shanghai) Co., Ltd. (China): Game debugging, Localization, etc.
+DIGITAL HEARTS USA Inc (Malaysia): Game Game debugging, Localization, etc.
+Orgosoft Co., Ltd. (South Korea): Game Game debugging, Localization
+Digital Hearts Linguitronics Taiwan Co., Ltd. (Taiwan): Game transiation
+FLAME Hearts Co., Ltd. (Japan): Game development & CG content development
+Aetas, Inc. (Japan): Operation of a game information site, “4Gamer.net”

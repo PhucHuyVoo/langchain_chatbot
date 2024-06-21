@@ -1,0 +1,28 @@
+Highlight case study 1 (NETGEAR)
+
+Country: United States
+
+Client: NETGEAR
+
+Domain: Network/IOT
+
+Timeline: Year 2018 – Now
+
+Team Size: 10 experts (QC Engineers, Test Automation Engineers, Python Developers)
+
+Details: Client engaged TPP Technology to carry out automation test on a wide range of returned goods, in order to classify them into conditions and then sell as refurbish or new accordingly.
+
+Solutions: 
+Development of automation test systems for all returned NETGEAR devices.
+Classification of returned devices based on their condition.
+Management and enhancement of the test framework for automating testing.
+Improvement of the test framework design.
+Deployment of software and hardware test systems.
+Onsite and remote technical support at NETGEAR's distribution and RMA centers.
+
+Results:
+Automation test systems were designed and implemented for various Netgear RMA products.
+Cost savings for the client (NTGR), exceeding 30 million dollars annually.
+The solution significantly improved the client's overall profit margin.
+
+Technology & Programming Language: Python, MySQL, Selenium, Selenium Webdriver, Headless browsers, etc. Jenkins, Confluence, SVN; Jira

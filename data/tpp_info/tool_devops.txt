@@ -1,0 +1,5 @@
+DEVOPS
+
+Container & Virtualization: Docker, Kubernetes, VMWare, HyperV, vSphere
+Monitoring: Prometheus, Datadog, Grafana, Zabbix, Nagios, N-able, Chef
+VCS: BitBucket, Git, Github, Gitlab, Visual Source Safe, CVS, Subversion, ClearCase, Bazaar, Araxis Merge

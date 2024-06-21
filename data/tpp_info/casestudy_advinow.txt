@@ -1,0 +1,26 @@
+Highlight case study 2 (AdviNOW Medical)
+
+Country: United States
+
+Client: AdviNow
+
+Domain: Healthcare
+
+Timeline: 2019
+
+Team Size: 4 team (1 project manager, 3 experienced software developers)
+
+Details: The Advinow Project wishes to link US clinics for centralized management of patient's electronic health records (EHRs) in the most centralized and consistent way.
+
+Solutions: 
+TPP collaborates closely with the customer's development team and software engineers.
+The collaboration involves developing new systems, new services, and maintaining existing systems for future upgrades.
+The system aims to provide doctors and physicians with a comprehensive overview of their patients' medical history and previous treatments.
+The system enables doctors to make more accurate diagnoses and provide better treatments based on the complete patient information.
+
+Results:
+Give doctors a thorough summary of patients' medical history and past treatments
+Enable healthcare professionals to make more accurate diagnoses and provide better treatments to their patients.
+Contribute to improving the overall healthcare service delivery.
+
+Technology & Programming Language: Python (Django), Selenium & Pywinauto - Cloud Technology: Amazon SOS - Celery Message Broker - Gunicorn - Nginx

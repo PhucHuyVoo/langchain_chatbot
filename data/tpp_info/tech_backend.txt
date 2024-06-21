@@ -1,0 +1,9 @@
+BACKEND
+
+Javascript: NodeJS, ExpressJS
+Java: Spring, Hibernate, Apache Struts/Axis/Axis2, Servlet, EJB, JSF
+Python: Django, Flask
+C#: NET Core/4.0/5.0
+PHP: Laravel, Symfony, Magento
+Ruby on Rails: Golang, C++, Solidity
+CS-Cart: OutSystems, CS-Cart, Shopify, Adobe CQ4/CQ5

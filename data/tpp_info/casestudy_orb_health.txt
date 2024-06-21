@@ -1,0 +1,25 @@
+Highlight case study 8 (Orb Health)
+
+Country: US
+
+Client: Orb Health
+
+Domain: Healthcare
+
+Timeline: Year 2021
+
+Team Size: Senior Software developers & QC
+
+Details: OrB Health engage TPP to build a collaborative healthcare platform and management solution, which can be customized to meet specific business requirements.
+
+Solutions: 
+Efficient All-in-One Healthcare Platform: Delivers care plans without overhead, extends care capacity, enables smooth collaboration, highly scalable and cost-effective.
+Custom-Made Solutions: Our IT professionals collaborate closely with healthcare providers to understand user needs, conduct research, and deliver software solutions that function as expected with aesthetic appeal.
+
+Results: 
+Engagement & Clinical Care Plan: Manage patient care plans, including medication & activities
+Patient Profile: Access integrated profiles with personal information & healthcare records.
+Time Tracking and Billing: Providers track, approve, & bill time to insurance systems
+Chat with Care Team: Communicate via chat with email & alert notifications for unread messages.
+
+Technology & Programming Language: Back-end: Java -Spring, Redis, SSOm Key-cloak, Kafka, PostgreSQL

@@ -1,0 +1,21 @@
+Development Methodologies
+
+Agile Development
+Mitigates the risk of budget below outs
+Better product/market fit
+Increased stakeholder collaboration
+Get to market faster
+More value, less time
+
+DevOps Development
+Enhance collaboration and trust
+Release faster and work Smarter
+Accelerate time to resolution
+Better manage unplanned work
+
+Waterfall Development
+Uses clear structure
+Determines the end goal early
+Issues can be researched and tacked in the design stage
+Crystal clear outcomes
+No Financial surprises

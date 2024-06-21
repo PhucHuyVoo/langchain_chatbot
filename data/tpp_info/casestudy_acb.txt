@@ -1,0 +1,25 @@
+Highlight case study 6 (ACB)
+
+Country: Vietnam
+
+Client: ACB
+
+Domain: Bank
+
+Timeline: Year 2021
+
+Team Size: Senior Software developers & QC
+
+Details: ACB engages TPP Software to develop the features in their mobile application, serving their individual clients for purposes of virtual visa debit card opening & physical card printing.
+
+Solutions: 
+Mobile App System: responsible for the development of virtual visa debit card features (code UI/function/API, deployment, fix bugs)
+Back-end: design database, API, code and fix bugs, work with client’s teams to perform integration (via APIs) with client’s existing systems
+QC performs testing activities (test plan, test case, test report, API testing)
+Other tasks
+
+Results: TPP Software’s team successfully worked with client’s existing team to enhance the mobile application following ACB’s bank system specific specifications.
+
+Technology & Programming Language: 
+Web Application: Java, NodeJs, PHP, Reactjs.
+Mobile App: iOS & Android, React Native

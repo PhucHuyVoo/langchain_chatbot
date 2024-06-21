@@ -1,0 +1,30 @@
+Highlight case study 3 (Regal Logistics)
+
+Country: United States
+
+Client: Regal Logistics
+
+Domain: Logistics
+
+Timeline: 15 Months
+
+Team Size: 20 experts (web designers, software developers, software tester and QA specialists, etc.)
+
+Details: Redesign & modernize applications for the entire supply chain management system including transport & yard management system, warehouse management system, electronic data exchange.
+
+Solutions: 
+YMS: Yard Management System is a software system designed to oversee the movement of trucks and trailers in Regal Logistics facility.
+TMS: Transportation Management System in which TPP monitors the creation of trucks, containers as well as planning, and defining in terms of schedule and destination outside of Regal
+Warehouse Management system
+Truck brokerage management system
+EDI Integration
+
+Results:
+Successfully developing features of system, include:
+In and out vehicles inspection
+Internal administration
+Security configuration
+Helping Logistics company manage their assets and transportation processes better and more effectively.
+
+Technology & Programming Language: Python (Django), Selenium & Pywinauto, Cloud Technology: Amazon SOS, Celery Message Broker, Gunicorn - Nginx
+

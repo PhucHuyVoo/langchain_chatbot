@@ -1,0 +1,16 @@
+Our Workflow
+
+Step 1 (Investigation)
+Requirement Hearing: Go through customers requirements to identify needs.
+Estimation: Create technical/scheduled proposals based on requirements.
+
+Step 2 (Estimation)
+Planning: Investigate & analyze business logic, create project plan & delivery milestones.
+Designing: Designing application architecture as well as detail screen.
+
+Step 3 (Deployment)
+Coding & Testing: Coding & testing based on design results.
+
+Step 4 (Delivery & Maintenance)
+Delivery: Source code delivery, includes, all design & investigation documents. We also support the deployment of the product
+Maintenance: Create technical/schedules proposals based on requirements

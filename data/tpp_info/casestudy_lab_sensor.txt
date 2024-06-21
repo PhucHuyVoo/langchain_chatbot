@@ -1,0 +1,28 @@
+Highlight case study 9 (Lab Sensor Solutions)
+
+Country: UK
+
+Client: T-Tracks system
+
+Domain: Healthcare
+
+Timeline: Year 2021
+
+Team Size: Senior Software developers & QC
+
+Details: Lab Sensor engage TPP to develop a comprehensive healthcare solution that improves sample transportation efficiency, ensures regulatory compliance with a centralized admin system.
+
+Solutions: 
+Real-Time Data: Smart devices generate real-time data for improved decision making and efficient healthcare operations, reducing errors, waste, and costs.
+Sensor-Enabled Devices: These devices monitor and ensure proper humidity and temperature control to prevent sample contamination in healthcare settings.
+Cost-Effective Solution: Our custom healthcare applications enable real-time monitoring of healthcare materials, significantly reducing costs associated with lab work and re-admissions.
+
+Results: 
+Real-time data & positioning for quick corrective action in sample transportation
+Centralized admin ensures regulatory compliance & offers features like alerts & schedules
+Analytics & smart alerts provide insights into sample container behavior
+Monitoring tracks sample storage containers for compliance.
+
+Technology & Programming Language: 
+Web Application: Java, NodeJs, PHP, Reactjs.
+Mobile App: iOS & Android, React Native

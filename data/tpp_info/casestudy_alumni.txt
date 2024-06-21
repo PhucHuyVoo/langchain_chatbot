@@ -1,0 +1,28 @@
+Highlight case study 5 (Alumni)
+
+Country: UK
+
+Client: Alumni
+
+Domain: Technologies
+
+Timeline: Year 2018 (6 Months)
+
+Team Size: 12 IT Professionals (Mobile Developers, Back-end developers, Designer, BA, QA/Testing Specialist, and Project Manager.)
+
+Details: We provide consulting, design & development expertise, integrating essential features. This app facilitates networking, connecting educational institutes, business partners, alumni & employees while creating business opportunities through events. 
+
+Solutions: 
+TPP has a team of 12 skilled members specialized in mobile development, including Coordinators, Front-end & Back-end Developers, and Test Developers.
+TPP created a secure mobile application that caters to a large user base, addressing their needs effectively.
+The Alumni app integrates with Google Maps' real-time geolocation system, offering users a fully personalized experience.
+
+Results:
+Ensuring users’ security & privacy
+Participants are selected for personalized invitations and they can choose to register or not.
+Easy to use, and easy to understand interface
+
+Technology & Programming Language: 
+Back-end: ASP.NET Core 2.1 & Web API Core 2.1, ASP.NET Core 2.1 SignalR, ORM: Entity framework Core 2.1.
+Front-end: Angular 5, HTML5/CSS3, Bootstrap 4, Google Map API (License key).
+Mobile: React Native 0.54.2, Redux & Redux-Saga, Google Map API

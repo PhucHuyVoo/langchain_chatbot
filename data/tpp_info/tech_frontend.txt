@@ -1,0 +1,8 @@
+FRONT END
+
+HTML5
+CSS
+JS
+JQuery
+React
+Angular

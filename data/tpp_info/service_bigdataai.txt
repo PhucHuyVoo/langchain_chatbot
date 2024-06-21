@@ -1,0 +1,8 @@
+BIG DATA & AI SERVICES
+
+ETL/Data Warehouse Development
+Business Intelligence, Predictive and Prescriptive Data Analytics
+Machine Learning & Data Science services
+NLP
+Computer Vision
+Recommender System Development
